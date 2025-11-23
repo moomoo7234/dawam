@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of Dawam - Employee Attendance",
+  "description": "A comprehensive employee attendance system featuring geolocation verification, selfie check-ins, and an admin dashboard. Built with React and simulating a Google Sheets backend.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
